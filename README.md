@@ -9,8 +9,13 @@ A Tic-Tack-Toe game developed in C#.
 TicTacTobot is highly sophisticed computer program designed for one purpose. To destroy all humans who dare stand in it's way. TicTacTobot does not eat, he does not sleep, and he does not feel pain. He can not and will not show remorse. Are you ready to step into the ring and Tic to Tac against the champ? For the sake of the human race, lets hope so ...
 
 - Challenge TicTacTobot at multiple levels of difficuly.
-- Choose between multiple color themes.
+  - Recruit
+  - Veteran
+  - Nightmare
+- Choose between multiple unique color themes!
 - Defeat TicTacTobot enough times to unlock a secret gamemode!
+
+![Color Themes](screenshots/color_themes.png)
 
 ## Installation
 To challenge TicTacTobot, you can download the latest release or build the code from source.
