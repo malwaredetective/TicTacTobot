@@ -24,8 +24,9 @@ To challenge TicTacTobot, you can download the latest release or build the code 
 You can download the latest release of TicTacTobot.exe from https://github.com/malwaredetective/TicTacTobot/releases/. 
 
 ### Building from Source Code
-** NOTE: THIS WILL NOT WORK UNTIL I UPLOAD SOME ADDITIONAL FILE REQUIRED FOR THE PROJECT ... **
-** TO DO: UPLOAD SOUND FILES REQUIRED FOR THE PROJECT**
+**NOTE: THIS WILL NOT WORK UNTIL I UPLOAD SOME ADDITIONAL FILE REQUIRED FOR THE PROJECT ...**
+
+**TO DO: UPLOAD SOUND FILES REQUIRED FOR THE PROJECT**
 - Clone a copy of the Github repository.
 ```
 git clone https://github.com/malwaredetective/TicTacTobot.git
